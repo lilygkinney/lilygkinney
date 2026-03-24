@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Lily Kinney
 
 <!--
-**lilygkinney/lilygkinney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm an Applied Math Graduate from Florida State and current M.S. Data Science student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Interested in data science, machine learning, and analytics
+- Especially interested in sports analytics and predictive modeling
+- Experienced with Python, SQL, R, C++, and Excel
+
+## Curent Focus
+- Building projects in machine learning and analytics
+- Growing my GitHub portfolio
+- Exploring opportunities in data science and sports analytics
+
+## Featured Projects
+- Comparative Study of Predictive Models in Machine Learning
+- Volleyball Analytics Project
+- NLP Text Classification Project
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/lily-g-kinney/
+- Email: lilygracekinney@gmail.com
