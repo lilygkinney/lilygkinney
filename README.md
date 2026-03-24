@@ -1,7 +1,5 @@
 ## Hi, I'm Lily Kinney
 
-<!--
-
 I'm an Applied Math Graduate from Florida State and current M.S. Data Science student.
 
 ## About Me
