@@ -54,7 +54,7 @@ A machine learning project using natural language processing techniques to class
 ## 🌐 Connect With Me
 
 <p>
-  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/lily-g-kinney/)">
+  <a href="https://www.linkedin.com/in/lily-g-kinney/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="YOUR_RESUME_LINK">
