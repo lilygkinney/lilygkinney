@@ -12,8 +12,7 @@
 - 🎓 M.S. in Data Science at Florida State University  
 - 📘 B.S. in Applied Mathematics  
 - 📊 Interested in data science, machine learning, and predictive modeling  
-- 🏐 Especially interested in sports analytics and data storytelling  
-- 💼 Former Capgemini intern with experience in analytics, UX/UI strategy, and experimentation  
+- 🏅 Sports interests: volleyball, tennis, baseball, and basketball   
 
 ---
 
