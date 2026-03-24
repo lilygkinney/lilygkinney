@@ -2,7 +2,7 @@
 <h3 align="center">M.S. Data Science Student at Florida State University</h3>
 
 <p align="center">
-  Interested in machine learning, analytics, sports data, and solving real-world problems with data.
+  [Explore My GitHub Repositories](https://github.com/lilygkinney?tab=repositories)
 </p>
 
 ---
