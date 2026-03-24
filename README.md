@@ -51,6 +51,14 @@ A machine learning project using natural language processing techniques to class
 
 ---
 
+## 🖇️ Explore My Work
+
+<p>
+  <a href="https://github.com/lilygkinney?tap=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ## 🌐 Connect With Me
 
 <p>
