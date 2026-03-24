@@ -57,10 +57,10 @@ A machine learning project using natural language processing techniques to class
   <a href="https://www.linkedin.com/in/lily-g-kinney/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://raw.githubusercontent.com/lilygkinney/lilygkinney/main/Kinney_Lily_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View-informational?style=for-the-badge" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:lilygracekinney@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
