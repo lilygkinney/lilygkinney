@@ -55,6 +55,8 @@ A machine learning project using natural language processing techniques to class
 
 - 💻 [Explore My GitHub Repositories](https://github.com/lilygkinney?tab=repositories)
 
+---
+
 ## 🌐 Connect With Me
 
 <p>
