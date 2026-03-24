@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lily Kinney 👋</h1>
-<h3 align="center">M.S. Data Science Student | Applied Math Graduate | Aspiring Data Scientist</h3>
+<h3 align="center">M.S. Data Science Student at Florida State</h3>
 
 <p align="center">
   Interested in machine learning, analytics, sports data, and solving real-world problems with data.
