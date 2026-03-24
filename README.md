@@ -2,7 +2,7 @@
 <h3 align="center">M.S. Data Science Student at Florida State University</h3>
 
 <p align="center">
-  [Explore My GitHub Repositories](https://github.com/lilygkinney?tab=repositories)
+  (https://github.com/lilygkinney?tab=repositories)
 </p>
 
 ---
