@@ -73,3 +73,6 @@ A machine learning project using natural language processing techniques to class
 
 ---
 
+## Live App
+
+Play here: https://krypto-puzzle-engine-024.streamlit.app/
