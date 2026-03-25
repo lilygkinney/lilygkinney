@@ -12,7 +12,7 @@
 - 🎓 Grad Student at Florida State University
 - 📘 B.S. in Applied Mathematics, currently working on M.S. in Data Science 
 - 📊 Interested in data science, machine learning, and predictive modeling  
-- 🏅 Sports interests: volleyball, tennis, baseball, and basketball
+- 🏅 Sports analytics interests: volleyball, tennis, baseball, and basketball
 - 🌟 For fun I enjoy spending time outdoors, working out, cooking, traveling, and playing sudoku 
 
 ---
